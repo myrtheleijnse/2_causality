@@ -7,7 +7,7 @@ Author: M. Leijnse
 
 Contact: m.leijnse@uu.nl
 
-Organization: Utrecht University
+Organization: Utrecht University, Department of Physical Geography
 
 ## Introduction
 Hello, thank you for reading me!
